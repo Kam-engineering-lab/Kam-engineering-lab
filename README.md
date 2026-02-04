@@ -9,5 +9,5 @@ I started in Mechanical Engineering, explored sales and trading, then found my h
 🧠 How I learn: by doing and visualising — sketches and prototypes  
 👯 Open to: fun engineering challenges
 💬 Ask me about: career pivots, FX, payments, web engineering, accessibility  
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kamal-d/)
 ⚡ Fun fact: I’ve gone from pitching to CFOs and trading floors to production releases — and I still enjoy both
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kamal-d/)
