@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there 👋 I’m Kam
 
-<!--
-**Kam-engineering-lab/Kam-engineering-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ex-investment banker → software engineer in payments.
 
-Here are some ideas to get you started:
+I started in Mechanical Engineering, explored sales and trading, then found my home building software. These days I ship frontend features, mentor graduate engineers, and ask questions like “does this help the customer’s needs?” or “can I show you an alternative that might suit your needs?”
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Working on: payments & commercial banking platforms  
+🌱 Learning: better system design (technical + human)  
+🧠 How I learn: by doing and visualising — sketches and prototypes  
+👯 Open to: fun engineering challenges
+💬 Ask me about: career pivots, FX, payments, web engineering, accessibility  
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kamal-d/)
+⚡ Fun fact: I’ve gone from pitching to CFOs and trading floors to production releases — and I still enjoy both
