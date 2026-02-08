@@ -2,7 +2,7 @@
 
 Ex-investment banker → software engineer in payments.
 
-I started in Mechanical Engineering, explored sales and trading, then found my home building software. These days I ship frontend features, mentor graduate engineers, and ask questions like “does this help the customer’s needs?” or “can I show you an alternative that might suit your needs?”
+I started in Mechanical Engineering, explored sales and trading, then found my home building stuff. These days I ship frontend features, mentor graduate engineers, and ask questions like “does this help the customer’s needs?” or “can I show you an alternative that might suit your needs?”
 
 🔭 Working on: payments & commercial banking platforms  
 🌱 Learning: better system design (technical + human)  
