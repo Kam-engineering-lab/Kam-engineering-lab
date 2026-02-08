@@ -10,4 +10,4 @@ I started in Mechanical Engineering, explored sales and trading, then found my h
 👯 Open to: fun engineering challenges    
 💬 Ask me about: career pivots, FX, payments, web engineering, accessibility  
 ⚡ Fun fact: I’ve gone from pitching to CFOs and trading floors to production releases, and I still enjoy both  
-📫 How to reach me: [LinkedIn](...)
+📫 How to reach me: [LinkedIn]
